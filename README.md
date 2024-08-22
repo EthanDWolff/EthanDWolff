@@ -1,23 +1,19 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Ethan Wolff! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![<EthanDWolff>'s Stats](https://github-readme-stats.vercel.app/api?username=<EthanDWolff>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I am an ambitious, self taught programmer. 
 
 ## 🚀 About Me
 
-- 🔭 I have been a medical laboratory scientist for the last decade. 
-- 📝 
+- 🔭 I have been a medical laboratory scientist for the last decade. After Covid I decided to change careers and work in Tech.
 - 🌐 Proud club captain of the Codesademy iOS Career Path club (link)
 - 
-
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Learning iOS mobile app development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
