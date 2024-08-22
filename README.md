@@ -11,6 +11,9 @@ I am an ambitious, self taught programmer.
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase)](https://skillicons.dev)
 
+## Projects
+breeder.py
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning iOS mobile app development
